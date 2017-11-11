@@ -8,6 +8,6 @@ class Dog
     @@all << self
   end
 
-  def self.all? { |
-  end|  }
+  def self.all
+  end
 end
